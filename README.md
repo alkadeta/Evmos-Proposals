@@ -2,16 +2,18 @@
 
 ## Description
 
-**Author**
+### Author
+
 Malte Herrmann, Evmos Core Team
 
-**Software upgrade being scheduled with this proposal**
+### Software upgrade being scheduled with this proposal
+
 If successful, this proposal will schedule an Evmos mainnet software upgrade at block height 14,538,200 (around 4pm UTC Wed., 12th July 2023) from its current version v12.1.6 to v13.0.2 (Apeiron). This proposal has a voting time of 120 hours.
 
-Motivation
+### Motivation
 By proposing a scheduled upgrade, we want to implement a smooth and transparent upgrade process, that is first proposed on testnet and then on mainnet. Software upgrades generally aim to improve current performance and add new features to the Evmos chain. For more information on the types of upgrades, please visit our Software Upgrade Guide.
 
-Impact
+### Impact
 Evmos v13.0.2 (Apeiron) contains the following changes and enhancements:
 
 Introduce EVM extensions for staking, distribution and IBC transfers
@@ -19,11 +21,11 @@ Upgrade CometBFT to v0.34.29 and Cosmos SDK to v0.46.11
 Many small improvements and refactors
 A full changelog can be found here.
 
-Testing
+### Testing
 The Evmos core team created an End-to-End testing suite that performs the software upgrade locally. These tests have been completed successfully for this upgrade. The instructions on how to run the End-to-End testing suite can be found here. Additionally, the upgrade has been manually performed on a local node. On top of the upgrade tests, the Evmos team runs performance tests to monitor the impact of new versions.
 
-Discussion
+### Discussion
 Please follow and discuss this proposal using the official discussion on Commonwealth.
 
-Result
+# Result
 Governance vote has passed with 99.04% Yes votes (179,136,280.824820EVMOS)
