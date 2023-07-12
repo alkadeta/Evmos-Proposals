@@ -27,7 +27,7 @@ A full changelog can be found here.
 The Evmos core team created an End-to-End testing suite that performs the software upgrade locally. These tests have been completed successfully for this upgrade. The instructions on how to run the End-to-End testing suite can be found here. Additionally, the upgrade has been manually performed on a local node. On top of the upgrade tests, the Evmos team runs performance tests to monitor the impact of new versions.
 
 ### Discussion
-Please follow and discuss this proposal using the official discussion on Commonwealth.
+Please follow and discuss this proposal using the official [discussion on Commonwealth](https://commonwealth.im/evmos/discussion/12023-evmos-mainnet-v1302-upgrade).
 
 ## Result
 Governance vote has passed with 99.04% Yes votes (179,136,280.824820EVMOS)
