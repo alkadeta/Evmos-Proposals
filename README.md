@@ -1,6 +1,8 @@
-# Evmos Mainnet v13.0.2 (Apeiron) Upgrade
+# Evmos Governance Proposal 149
 
-## Description
+## Evmos Mainnet v13.0.2 (Apeiron) Upgrade
+
+### Description
 
 ### Author
 
@@ -27,5 +29,5 @@ The Evmos core team created an End-to-End testing suite that performs the softwa
 ### Discussion
 Please follow and discuss this proposal using the official discussion on Commonwealth.
 
-# Result
+## Result
 Governance vote has passed with 99.04% Yes votes (179,136,280.824820EVMOS)
