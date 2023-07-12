@@ -1,10 +1,11 @@
-**Evmos Mainnet v13.0.2 (Apeiron) Upgrade**
+#Evmos Mainnet v13.0.2 (Apeiron) Upgrade
 
 Description
-Author
+
+**Author**
 Malte Herrmann, Evmos Core Team
 
-Software upgrade being scheduled with this proposal
+**Software upgrade being scheduled with this proposal**
 If successful, this proposal will schedule an Evmos mainnet software upgrade at block height 14,538,200 (around 4pm UTC Wed., 12th July 2023) from its current version v12.1.6 to v13.0.2 (Apeiron). This proposal has a voting time of 120 hours.
 
 Motivation
